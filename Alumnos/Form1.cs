@@ -19,17 +19,7 @@ namespace Alumnos
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string nombre, nota, texto;
-            
-            nombre = textBox1.Text;
-            nota = textBox2.Text;
-            
-
-            texto = nombre + " " + "Nota: " + nota;
-            textBox3.Text = textBox3.Text + texto + "\n";
-
-            textBox1.Text = "";
-            textBox2.Text = "";
+           
 
 
         }

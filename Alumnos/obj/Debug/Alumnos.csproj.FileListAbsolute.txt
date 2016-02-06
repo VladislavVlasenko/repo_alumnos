@@ -13,3 +13,12 @@ C:\Users\Vladislav\Desktop\Practica 5.1 Subversion- Vladislav Vlasenko\Alumnos\A
 C:\Users\Vladislav\Desktop\practica git\Alumnos\bin\Debug\Alumnos.exe.config
 C:\Users\Vladislav\Desktop\practica git\Alumnos\obj\Debug\Alumnos.exe
 C:\Users\Vladislav\Desktop\practica git\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\obj\Debug\Alumnos.exe
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\obj\Debug\Alumnos.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\obj\Debug\Alumnos.Form1.resources
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\obj\Debug\Alumnos.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\obj\Debug\Alumnos.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\bin\Debug\Alumnos.exe
+C:\Users\Vladislav\Desktop\Repositorio Clonado\repo_alumnos\Alumnos\bin\Debug\Alumnos.pdb
